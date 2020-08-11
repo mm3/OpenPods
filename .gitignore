@@ -1,1 +1,11 @@
 /_old_
+
+*.iml
+.gradle
+local.properties
+.idea
+.DS_Store
+build
+release
+captures
+.externalNativeBuild
